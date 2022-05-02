@@ -3,12 +3,6 @@ name: Build
 on:
   push:
     branches: [ master ]
-    paths:
-      - 'MultiplayerExtensions.sln'
-      - 'MultiplayerExtensions/**'
-      - 'MultiplayerExtensionsTests/**'
-      - '.github/workflows/Build.yml'
-      - 'Refs/**'
 
 jobs:
   Build:
