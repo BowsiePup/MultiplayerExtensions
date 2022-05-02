@@ -5,7 +5,7 @@ A Beat Saber mod which aims to improve the multiplayer experience.
 
 ## Features
 * Fancy platform lighting
-* Fancy in-game lighting
+* Fancy in-game lighting.
 **Looking for more features, feel free to contribute your own.**
 
 ## Installation
